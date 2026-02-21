@@ -1,3 +1,3 @@
-# expo-router
+# read me
 
-Check out the [Expo Router documentation](https://docs.expo.dev/routing/introduction/) for more information.
+I was hoping to get this to work but it will not load any of the changes I make. This is following 4 tutorials on YouTube to try and get it to work.
